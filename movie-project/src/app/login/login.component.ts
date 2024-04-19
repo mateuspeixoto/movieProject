@@ -9,4 +9,8 @@ import { Component } from '@angular/core';
 })
 export class LoginComponent {
 
+  username = "";
+  password = "";
+  errorMsg = "";
+
 }
